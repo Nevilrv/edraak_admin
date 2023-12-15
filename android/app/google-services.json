@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1065978971349",
+    "project_id": "edraak-8fe1b",
+    "storage_bucket": "edraak-8fe1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065978971349:android:5f27044fdedd94ad218e5c",
+        "android_client_info": {
+          "package_name": "com.example.edraak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7MDN5K9Jhx_LtmVEc0b5-fqr_yoaSfe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065978971349:android:84fb6e00f015f7a5218e5c",
+        "android_client_info": {
+          "package_name": "com.example.edraak_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7MDN5K9Jhx_LtmVEc0b5-fqr_yoaSfe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
